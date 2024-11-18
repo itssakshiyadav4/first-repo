@@ -1,4 +1,4 @@
 # first-repo
 this is my first git repository
 <br>
-author-Sakshi Yadav
+author-Sakshi (Btech)
